@@ -1,6 +1,6 @@
 # txle | [中文](README_ZH.md)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Gitter](https://img.shields.io/static/v1?label=chat&message=on&nbsp;gitter&color=F66FB2)](https://gitter.im/actiontech-txle/Lobby)
+[![Gitter](https://img.shields.io/static/v1?label=chat&message=on&nbsp;gitter&color=brightgreen)](https://gitter.im/actiontech-txle/Lobby)
 
 ## What is txle?
 txle is a distributed transaction solution and can guarantee the final consistency of the business data.
