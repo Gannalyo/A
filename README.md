@@ -20,7 +20,7 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 ## Quick start
 
-Please refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html)
+Please refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html).
 
 ## Community
 
