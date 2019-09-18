@@ -36,14 +36,4 @@ Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https:
 * QQ group: 696990638
 * wechat subscription QR code
   
-  ![dble](./docs/QR_code.png)
-
-## Contact us
-
-txle has enterprise support plans, you may contact our sales team:
-
-- Global Sales: 400-820-6580
-- North China: 86-13718877200, Mr.Wang
-- South China: 86-18503063188, Mr.Cao
-- East China: 86-18930110869, Mr.Liang
-- South-West China: 86-13540040119, Mr.Hong
+  ![txle](./docs/QR_code.png)
