@@ -1,8 +1,5 @@
-# txle | [中文](README_ZH.md)
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Gitter](https://img.shields.io/static/v1?label=chat&message=on&nbsp;gitter&color=brightgreen)](https://gitter.im/actiontech-txle/Lobby)
+# txle | [中文](README_ZH.md) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html) [![Gitter](https://img.shields.io/static/v1?label=chat&message=on&nbsp;gitter&color=brightgreen)](https://gitter.im/actiontech-txle/Lobby)
 
-## What is txle?
 txle is a distributed transaction solution and can guarantee the final consistency of the business data.
 ## Feature
 * Multiple ways to guarantee the final consistency of the business data.
@@ -22,36 +19,8 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 ![txle architecture](docs/txle-architecture.png)
 
 ## Quick start
-### Step 1: Download txle Release
-[Download](https://github.com/actiontech/txle/releases) the release and un-tar it.
 
-```bash
-# tar -xzf actiontech-txle-$version.tar.gz
-# mv actiontech-txle-$version txle
-# cd txle
-```
-### Step 2: Preparation
-* MySQL Instance
-
-    Start a MySQL Instance in your machine where the txle service is deployed. And create a database called 'txle', a user called 'test' and the password is '123456'.
-
-* JVM
-
-    Install Java 1.8 or later in your machine and make sure the JAVA_HOME configuration is correct.
-
-### Step 3: Start server
-```bash
-# ./txle start
-Starting the txle server....
-Start successfully!
-```
-### Step 4: Stop server
-
-```bash
-# ./txle stop
-Stopping the txle server....
-Stop successfully!
-```
+[中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html)
 
 ## Official website
 
