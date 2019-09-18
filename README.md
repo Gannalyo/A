@@ -10,10 +10,6 @@ txle is a distributed transaction solution and can guarantee the final consisten
 * Support for exception snapshot processing.
 * Support both timeout and retry.
 
-## History
-txle is based on [ServiceComb Pack](https://github.com/apache/servicecomb-pack). First of all, thanks to the contributors from ServiceComb Pack.
-
-For us, focusing on MySQL is a better choice. So we cancelled the support for other databases, deeply improved/optimized its behavior on compatibility, complex query and distributed transaction. And of course, fixed lots of bugs.
 ## Architecture
 
 ![txle architecture](docs/txle-architecture.png)
@@ -22,6 +18,10 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 Please refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html).
 
+## History
+txle is based on [ServiceComb Pack](https://github.com/apache/servicecomb-pack). First of all, thanks to the contributors from ServiceComb Pack.
+
+For us, focusing on MySQL is a better choice. So we cancelled the support for other databases, deeply improved/optimized its behavior on compatibility, complex query and distributed transaction. And of course, fixed lots of bugs.
 ## Community
 
 * [![Gitter](https://img.shields.io/static/v1?label=chat&message=on&nbsp;gitter&color=brightgreen)](https://gitter.im/actiontech-txle/Lobby)
@@ -31,5 +31,4 @@ Please refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.Quick
   ![txle](./docs/QR_code.png)
 
 ## Contribution
-
 Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/blob/master/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
