@@ -16,7 +16,7 @@ txle is a distributed transaction solution and can guarantee the final consisten
 
 ## Quick start
 
-Follow instructions in https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html.
+Follow instructions in https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html.  
 Or refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html).
 
 ## History
