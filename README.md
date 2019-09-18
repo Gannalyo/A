@@ -26,10 +26,6 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 For more information, please visit the [Official website](https://opensource.actionsky.com/).
 
-## Documentation
-
-For more information, please visit the [Official website](https://opensource.actionsky.com/).
-
 ## Contribution
 
 Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/blob/master/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
