@@ -21,8 +21,7 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 ## Community
 * QQ group: 696990638
-* wechat subscription QR code
-  
+* wechat subscription QR code  
   ![txle](./docs/QR_code.png)
 
 ## Contribution
