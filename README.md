@@ -11,8 +11,8 @@ txle is a distributed transaction solution and can guarantee the final consisten
 * Support both timeout and retry.
 
 ## Quick Start
-Follow instructions in [QuickStart.md](https://github.com/actiontech/txle/blob/master/docs/QuickStart.md).  
-You can also refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html).
+Follow instructions in [QuickStart.md](./docs/QUICKSTART.md).  
+Please refer to the Chinese [documentation](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html) for more details.
 
 ## History
 txle is based on [ServiceComb Pack](https://github.com/apache/servicecomb-pack). First of all, thanks to the contributors from ServiceComb Pack.
@@ -21,8 +21,8 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 ## Community
 * QQ group: 696990638
-* wechat subscription QR code  
-  ![txle](./docs/QR_code.png)
+* WeChat Subscription QR code  
+![txle](./docs/QR_code.png)
 
 ## Contribution
 Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/blob/master/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
