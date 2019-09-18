@@ -26,15 +26,18 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 For more information, please visit the [Official website](https://opensource.actionsky.com/).
 
+## Documentation
+
+For more information, please visit the [Official website](https://opensource.actionsky.com/).
+
 ## Contribution
 
-Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
+Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/blob/master/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
 
-## Community TODO
+## Community
 
-* IRC: [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/txle.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=user|?&theme=cli#txle)
+* [![Gitter](https://img.shields.io/static/v1?label=chat&message=on&nbsp;gitter&color=brightgreen)](https://gitter.im/actiontech-txle/Lobby)
 * QQ group: 696990638
-* [If you're using txle, please let us know.](https://wj.qq.com/s/2291106/09f4)
 * wechat subscription QR code
   
   ![dble](./docs/QR_code.png)
