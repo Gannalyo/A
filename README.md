@@ -20,15 +20,7 @@ For us, focusing on MySQL is a better choice. So we cancelled the support for ot
 
 ## Quick start
 
-[中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html)
-
-## Official website
-
-For more information, please visit the [Official website](https://opensource.actionsky.com/).
-
-## Contribution
-
-Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/blob/master/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
+Please refer to [中文文档](https://actiontech.github.io/txle-docs-cn/1.QuickStart/1.0_deployment.html)
 
 ## Community
 
@@ -37,3 +29,7 @@ Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https:
 * wechat subscription QR code
   
   ![txle](./docs/QR_code.png)
+
+## Contribution
+
+Contributions are welcomed and greatly appreciated. See [CONTRIBUTION.md](https://github.com/actiontech/txle/blob/master/docs/CONTRIBUTION.md) for details on submitting patches and the contribution workflow.
