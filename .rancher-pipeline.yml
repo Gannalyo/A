@@ -1,0 +1,8 @@
+stages:
+- name: compile
+  steps:
+  - runScriptConfig:
+      image: java:8
+      shellScript: cat 1.txt
+timeout: 60
+notification: {}
